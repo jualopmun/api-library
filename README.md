@@ -27,7 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## DataBase
-- Mongodb => config:
+- Mongodb:
   - Config Port: 127.0.0.1:27017
   - Create Schema with name library
 
